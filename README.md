@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aleksis9
 - 👀 I’m interested in becoming web or backend software developer.
-- 🌱 I’m currently studying Power Software Engineering at Faculty od Technical Sciences in Novi Sad. 
+- 🌱 I’m studying Applied Software Engineering at Faculty od Technical Sciences in Novi Sad. 
 - 📫 How to reach me: alexandra.mkg@gmail.com
